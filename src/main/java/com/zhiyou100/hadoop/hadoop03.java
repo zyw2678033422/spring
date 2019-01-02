@@ -1,5 +1,4 @@
 package com.zhiyou100.hadoop;
 
-public class hadoop02 {
-
+public class hadoop03 {
 }
